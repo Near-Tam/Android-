@@ -14,5 +14,5 @@ $export JAVA_HOME = /opt/jvm/jdk1.8.0(JDK的根目录)
 $export CLASSPATH = .:${JAVA_HOME}/lib:${JRE_HOME}/lib
 $export PATH = ${JAVA_HOME}/bin:$PATH
 `
-=======
+======
 
