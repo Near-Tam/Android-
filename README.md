@@ -9,8 +9,8 @@ AndroidStudio2.1
 JDK下载 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 ## 环境变量的配置
-$export JAVA_HOME = /opt/jvm/jdk1.8.0(JDK的根目录)
-$export CLASSPATH = .:${JAVA_HOME}/lib:${JRE_HOME}/lib
-$export PATH = ${JAVA_HOME}/bin:$PATH
+\$export JAVA_HOME = /opt/jvm/jdk1.8.0(JDK的根目录)
+\$export CLASSPATH = \.:${JAVA_HOME}/lib:${JRE_HOME}/lib
+\$export PATH = ${JAVA_HOME}/bin:$PATH
 =======
 
